@@ -1,18 +1,12 @@
 {
   "name": "app",
-  "version": "1.0.50",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "bun run --watch src/index.ts"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "drizzle-orm": "^0.28.6",
-    "elysia": "latest",
-    "mysql2": "^3.6.1"
-  },
-  "devDependencies": {
-    "bun-types": "latest",
-    "drizzle-kit": "^0.19.13"
-  },
-  "module": "src/index.js"
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
