@@ -9,3 +9,5 @@ Blaze is a my highly opinionated boiler plate for building any product. I am con
 - [ ] Turborepo
 - [ ] Tailwind CSS
 - [ ] Shadcn UI
+- [ ] Prisma ORM
+- [ ] Ratelimiting on both Web App + Express Backend

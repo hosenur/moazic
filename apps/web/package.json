@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@repo/ui": "workspace:*",
+    "@upstash/ratelimit": "^1.0.3",
+    "@upstash/redis": "^1.29.0",
     "next": "^14.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
